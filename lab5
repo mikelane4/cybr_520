@@ -151,3 +151,15 @@ plot(svm.model_spambase3)
 plot(knn.model_spambase1_predict)
 plot(nnet.model_spambase2_predict)
 plot(svm.model_spambase3_predict)
+
+#KNN Results
+#Accuracy : 0.8696 - 86.96%
+#Recall : 0.8945 - 89.45%
+
+#NNET Results
+#Accuracy : 0.9591 - 95.91%
+#Recall : 0.9681 - 96.81%
+
+#SVM Results
+#Accuracy : 0.9583 - 95.83%
+#Recall : 0.9774 -97.74%
